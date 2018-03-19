@@ -1,5 +1,5 @@
 sudo su
-VERSION=2.4.2
+export VERSION=2.4.2
 wget https://github.com/singularityware/singularity/releases/download/$VERSION/singularity-$VERSION.tar.gz
 tar xvf singularity-$VERSION.tar.gz
 cd singularity-$VERSION
