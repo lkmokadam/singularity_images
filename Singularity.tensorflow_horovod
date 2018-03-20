@@ -87,6 +87,7 @@ From: nvidia/cuda:9.0-devel-ubuntu16.04
         
     mkdir /lustre
     mkdir /lustre/atlas /lustre/atlas1 /lustre/atlas2
+    mkdir -p /opt/cray /var/spool/alps /var/opt/cray /autofs/nccs-svm1_sw /ccs/sw /sw /autofs/nccs-svm1_proj /ccs/proj /.singularity.d/env/ /var/lib/hugetlbfs
 
 
 
